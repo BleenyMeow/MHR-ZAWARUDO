@@ -20,4 +20,4 @@ Credit: @dtlnor, @NorthBoring
 - Excelやgoogleスプレッドシートで開ける。（googleスプレッドシート推奨）
 - ヴァージョン15.0.0のみを対応、アップデートすろのが未定。
 - ファィル名称は絶対に＜60EFBA0CB724E3FE.txt＞にする。
-- ザ．ワールド
+- ザ．ワールド!
